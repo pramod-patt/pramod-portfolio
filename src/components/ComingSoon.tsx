@@ -2,8 +2,7 @@ export default function ComingSoon() {
   const projects = [
     'AI document chat demo',
     'React + Azure Functions sample app',
-    'Azure OpenAI / RAG project',
-    'Azure architecture notes',
+    'Azure OpenAI / RAG project',    
     'Blog posts about cloud, AI, and software engineering'
   ]
 
